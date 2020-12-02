@@ -7,6 +7,9 @@ With a slidedeck, a coding assignment with several jupyter notebooks, and a quiz
 * Understand RBF kernels, and visually see how gamma affects them. The kernel PCA problem introduces students to this idea in the assignment and allows them to play with different gamma values. The quiz goes in depth into how the gamma parameter effects visualization and the theoretical backing is provided in the notes.
 * Understand polynomial kernels, and how they are able to optimize on lifting. This is seen in the kernel perceptron example very clearly.
 * Understand how to use unique kernel functions on unusual data types. The string kernels problem introduces the student to this concept, and provides the background to read multiple different papers in string kernels for bioinformatics. All of which will be understandable after completing the problem.
+* Understand how to introduce our own kernel functions and apply them using SVM for classification and visualization of the decision boundary. The string kernel problem as well as a problem in the quiz will benefit the students understanding here.
+* Understand when our algorithm may benefit from kernelization, which is done both in the quiz and multiple assignment questions.
+
 ## Navigating this Directory
 📦kernels-final-project  
  ┣ 📂final_kernels_project_blank - coding assignment problems (jupyter notebooks)  
